@@ -2,6 +2,8 @@ altair==4.1.0
 appnope==0.1.2
 argon2-cffi==20.1.0
 astor==0.8.1
+# NOTE: needs to be refined in order to contain only the packages which are absolutely/actually necessary for running code
+
 async-generator==1.10
 attrs==20.3.0
 backcall==0.2.0
@@ -35,10 +37,10 @@ jedi==0.18.0
 Jinja2==2.11.3
 joblib==1.0.1
 jsonschema==3.2.0
-jupyter-client==6.1.12
-jupyter-core==4.7.1
-jupyterlab-pygments==0.1.2
-jupyterlab-widgets==1.0.0
+#jupyter-client==6.1.12
+#jupyter-core==4.7.1
+#jupyterlab-pygments==0.1.2
+#jupyterlab-widgets==1.0.0
 Markdown==3.3.4
 MarkupSafe==1.1.1
 mistune==0.8.4
