@@ -13,7 +13,7 @@ Please see ```requirements.txt``` for the list of packages required in order to 
 ```https://rajpurkar.github.io/SQuAD-explorer/```
 
 Rajpurkar, P., Jia, R., Liang, P. 2018. Know What You Don't Know: Unanswerable Questions for SQuAD.
-```https://arxiv.org/abs/1806.03822```
+```https://www.aclweb.org/anthology/P18-2124.pdf```
 
 Codalab worksheet resource for the above paper, by Robin Jia (2018)
 ```https://worksheets.codalab.org/worksheets/0x9a15a170809f4e2cb7940e1f256dee55```
